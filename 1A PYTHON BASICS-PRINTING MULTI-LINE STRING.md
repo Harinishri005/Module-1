@@ -12,6 +12,7 @@ To create a Python program to print the string in multiple lines using triple qu
 ## PROGRAM
 # Reg.No-212223090008
 # Name-Harinishri S
+```
 X='''I am a string literal
 ... has more than one
 ... line
@@ -21,8 +22,9 @@ I am a string literal
 ... line
 ....placed inside triple double quotes'''
 print(X)
+```
 
-#OUTPUT
+# OUTPUT
 ![MOD-1](https://github.com/user-attachments/assets/d3e7ebeb-cc6c-4062-9043-27bb663f59dc)
 
 ## RESULT
